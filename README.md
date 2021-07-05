@@ -3,7 +3,7 @@
 ### Hi there 🦄
 For now I am a Full Stack Developper and soon a Software Architect 🤞
 
-- 🔧 Working on multiples projects using such technologies like React, SASS, WordPress, PrestaShop etc.
+- 🔧 Working on multiples projects using technologies like React, SASS, WordPress, PrestaShop etc.
 
 - 🌱 Learning how to docker works to improve my globals skills on other topics than development
 
