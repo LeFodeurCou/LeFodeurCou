@@ -22,6 +22,17 @@ For now I am a Full Stack Developper and soon a Software Architect 🤞
 
 <img align="left" alt="linux" src="https://img.shields.io/badge/linux%20-%2313466b.svg?&style=for-the-badge&logo=linux&logoColor=white" />
 
+<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%23993366.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+
+<img align="left" alt="git" src="https://img.shields.io/badge/git%20-%23f2704e.svg?&style=for-the-badge&logo=git&logoColor=white" />
+
+<br /><br />
+
+<img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress%20-%230e62a1.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<img align="left" alt="prestashop" src="https://img.shields.io/badge/prestashop%20-%2334219e.svg?&style=for-the-badge&logo=prestashop&logoColor=white" />
+
+
 <br /><br />
 
 And more ...
