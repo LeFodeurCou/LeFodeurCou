@@ -7,7 +7,7 @@ For now I am a Full Stack Developper and soon a Software Architect 🤞
 
 - 🌱 Learning how Docker works to improve my globals skills on other topics than development
 
-- 🧠 My actual mindset is "Performance, code quality and clear processes"
+- 🧠 My actual mindset is "Performance, code quality, clear processes and parallel thinking"
 
 
 
