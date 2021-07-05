@@ -1,6 +1,7 @@
 ![Banner representing my technicals skills](https://raw.githubusercontent.com/LeFodeurCou/LeFodeurCou/main/linkedinBanner.png)
 
-### Hi there 👋
+### Hi there 🦄
+For now I am a Full Stack Developper and soon a Software Architect 🤞
 
 <!--
 **LeFodeurCou/LeFodeurCou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
