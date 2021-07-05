@@ -1,3 +1,5 @@
+![Banner representing my technicals skills](https://raw.githubusercontent.com/LeFodeurCou/LeFodeurCou/main/linkedinBanner.png)
+
 ### Hi there 👋
 
 <!--
