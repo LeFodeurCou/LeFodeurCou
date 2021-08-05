@@ -1,7 +1,7 @@
 ![Banner representing my technicals skills](https://raw.githubusercontent.com/LeFodeurCou/LeFodeurCou/main/linkedinBanner.png)
 
 ### Hi there 🦄
-Full Stack Developper with some devOps capababilities 😉
+I am a Full Stack Developper with some devOps capababilities 😉
 
 - 🔧 Working on multiples projects using technologies like React, SASS, WordPress, PrestaShop etc.
 
