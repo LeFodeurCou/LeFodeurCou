@@ -3,9 +3,11 @@
 ### Hi there 🦄
 I am a Full Stack Developper with some devOps capababilities 😉
 
-- 🔧 Working on multiples projects using technologies like React, SASS, WordPress, PrestaShop etc.
+- 🔧 Working on multiples projects using technologies like React, SASS, PHP, MySQL, Docker etc.
 
-- 🌱 Learning how Docker works to improve my globals skills on other topics than development
+- 🌱 Learning how Docker works to improve projects quality
+
+- 🌱 Learning how CI/CD works througt GitHub Actions for automation
 
 - 🧠 My actual mindset is "Performance, code quality, clear processes and parallel thinking"
 
