@@ -28,6 +28,8 @@ I am a Full Stack Developper with some devOps capababilities 😉
 
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-%23f2704e.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
+<img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-%23704ef2.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+
 <br /><br />
 
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/wordpress%20-%230e62a1.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
