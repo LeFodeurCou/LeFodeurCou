@@ -5,11 +5,13 @@ I am a Full Stack Developper with some devOps capababilities 😉
 
 - 🔧 Working on multiples projects using technologies like React, SASS, PHP, MySQL, Docker etc.
 
-- 🌱 Learning how Docker works to improve projects quality
+- 🌳 I have learnt how Docker works to improve projects automations and quality
 
 - 🌱 Learning how CI/CD works througt GitHub Actions for automation
 
-- 🧠 My actual mindset is "Performance, code quality, clear processes and parallel thinking"
+- 🌱 Hexagonale architecture to improve software quality, evolutivity and scalability
+
+- 🧠 My global mindset is "Performance, code quality, clear processes and parallel thinking"
 
 
 
@@ -62,4 +64,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌳 I have learnt something ...
 -->
